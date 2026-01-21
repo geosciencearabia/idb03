@@ -61,7 +61,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
-    "publications": 335,
+    "publications": 336,
     "citations": 3975
   },
   {
@@ -383,6 +383,12 @@ export const topicStats: TopicStats[] = [
     "citations": 205
   },
   {
+    "id": "https://openalex.org/T11278",
+    "name": "Calcium Carbonate Crystallization and Inhibition",
+    "publications": 14,
+    "citations": 93
+  },
+  {
     "id": "https://openalex.org/T12618",
     "name": "Botany and Plant Ecology Studies",
     "publications": 13,
@@ -399,12 +405,6 @@ export const topicStats: TopicStats[] = [
     "name": "Hydrology and Watershed Management Studies",
     "publications": 13,
     "citations": 176
-  },
-  {
-    "id": "https://openalex.org/T11278",
-    "name": "Calcium Carbonate Crystallization and Inhibition",
-    "publications": 13,
-    "citations": 93
   },
   {
     "id": "https://openalex.org/T13372",
@@ -947,6 +947,12 @@ export const topicStats: TopicStats[] = [
     "citations": 62
   },
   {
+    "id": "https://openalex.org/T12071",
+    "name": "Marine Biology and Environmental Chemistry",
+    "publications": 3,
+    "citations": 58
+  },
+  {
     "id": "https://openalex.org/T10039",
     "name": "Stellar, planetary, and galactic studies",
     "publications": 3,
@@ -1167,12 +1173,6 @@ export const topicStats: TopicStats[] = [
     "name": "Advanced Manufacturing and Logistics Optimization",
     "publications": 2,
     "citations": 75
-  },
-  {
-    "id": "https://openalex.org/T12071",
-    "name": "Marine Biology and Environmental Chemistry",
-    "publications": 2,
-    "citations": 58
   },
   {
     "id": "https://openalex.org/T11020",
@@ -3274,7 +3274,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 835,
+    "publications": 836,
     "citations": 9243
   },
   {
@@ -3286,7 +3286,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
-    "publications": 192,
+    "publications": 193,
     "citations": 4327
   },
   {
@@ -5018,6 +5018,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 19
   },
   {
+    "id": "https://openalex.org/I4210152837",
+    "name": "Dhahran Health Center",
+    "publications": 5,
+    "citations": 18
+  },
+  {
     "id": "https://openalex.org/I181631907",
     "name": "University of Ibadan",
     "publications": 5,
@@ -5298,12 +5304,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Ankara University",
     "publications": 4,
     "citations": 19
-  },
-  {
-    "id": "https://openalex.org/I4210152837",
-    "name": "Dhahran Health Center",
-    "publications": 4,
-    "citations": 18
   },
   {
     "id": "https://openalex.org/I60858718",
@@ -10224,6 +10224,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Google (United States)",
     "publications": 1,
     "citations": 1
+  },
+  {
+    "id": "https://openalex.org/I2802223849",
+    "name": "Saint Anthony College of Nursing",
+    "publications": 1,
+    "citations": 0
   },
   {
     "id": "https://openalex.org/I59433898",

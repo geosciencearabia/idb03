@@ -376,6 +376,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7124737262",
+    "doi": "https://doi.org/10.1016/j.geoen.2026.214374",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5002041459",
+    "allAuthorOpenAlexIds": [
+      "A5002041459",
+      "A5044865334",
+      "A5059235394",
+      "A5086485606",
+      "A5101773455",
+      "A5010808882",
+      "A5070102183",
+      "A5119629686"
+    ],
+    "firstAuthorLastName": "Lu",
+    "allAuthors": [
+      "Peng Lu",
+      "Nikolaos A. Michael",
+      "Abrar Alabbad",
+      "Rainer Zühlke",
+      "Christopher R. Ellis",
+      "Aaron Ketchmark",
+      "Chris Paola",
+      "Hussain Al-Qatari"
+    ],
+    "title": "A diagenetic flume-tank experiment of carbonate marine cementation along a carbonate profile",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 0,
+    "topics": [
+      "Calcium Carbonate Crystallization and Inhibition",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Marine Biology and Environmental Chemistry"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "King Fahd University of Petroleum and Minerals",
+      "Saint Anthony College of Nursing",
+      "Dhahran Health Center"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2991877883",
     "doi": "https://doi.org/10.2113/geoarabia0602233",
     "program": "",

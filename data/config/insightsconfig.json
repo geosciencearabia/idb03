@@ -1,0 +1,11 @@
+{
+  "insightsDefaultPeriodA": { "from": null, "to": 2014 },
+  "insightsDefaultPeriodB": { "from": 2015, "to": null },
+  "insightThresholds": {
+    "strongSurge": { "pubs": 2.0, "cites": 2.0 },
+    "growingPriority": { "pubs": 1.5, "cites": 1.2 },
+    "impactLed": { "cites": 1.5, "pubsMax": 1.0 },
+    "outputSoftening": { "pubs": 1.2, "citesMax": 0.9 },
+    "declineDrop": 0.8
+  }
+}

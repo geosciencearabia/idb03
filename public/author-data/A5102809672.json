@@ -1224,6 +1224,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 138,
       "referenced_works": [
         "https://openalex.org/W2046692613",
@@ -1855,6 +1856,10 @@
       "has_content": {
         "grobid_xml": true,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W766487889.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W766487889.grobid-xml"
       },
       "referenced_works_count": 98,
       "referenced_works": [
@@ -3398,6 +3403,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 46,
       "referenced_works": [
         "https://openalex.org/W2008290578",
@@ -3864,6 +3870,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 4,
       "referenced_works": [
         "https://openalex.org/W2025585437",
@@ -4733,6 +4740,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 43,
       "referenced_works": [
         "https://openalex.org/W2808094458",
@@ -5334,6 +5342,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 56,
       "referenced_works": [
         "https://openalex.org/W2974796042",
@@ -6189,6 +6198,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W6660340094",
@@ -6694,6 +6704,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 45,
       "referenced_works": [
         "https://openalex.org/W2974796042",
@@ -7167,6 +7178,10 @@
       "has_content": {
         "grobid_xml": true,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2974796042.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2974796042.grobid-xml"
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -7769,6 +7784,10 @@
       "has_content": {
         "grobid_xml": true,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1542845244.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1542845244.grobid-xml"
       },
       "referenced_works_count": 73,
       "referenced_works": [
@@ -9946,6 +9965,10 @@
         "grobid_xml": true,
         "pdf": true
       },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2336549484.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2336549484.grobid-xml"
+      },
       "referenced_works_count": 67,
       "referenced_works": [
         "https://openalex.org/W1547519091",
@@ -12075,6 +12098,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 38,
       "referenced_works": [
         "https://openalex.org/W2055932192",
@@ -12868,6 +12892,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 14,
       "referenced_works": [
         "https://openalex.org/W4231804296",
@@ -13745,6 +13770,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 42,
       "referenced_works": [
         "https://openalex.org/W1999373721",
@@ -14271,6 +14297,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 15,
       "referenced_works": [
         "https://openalex.org/W1997252211",
@@ -15358,6 +15385,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 17,
       "referenced_works": [
         "https://openalex.org/W2089841273",
@@ -15923,6 +15951,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -16519,6 +16548,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 37,
       "referenced_works": [
         "https://openalex.org/W6664607333",
@@ -17128,6 +17158,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 51,
       "referenced_works": [
         "https://openalex.org/W2134598475",
@@ -17705,6 +17736,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W2064656749",
@@ -18360,6 +18392,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 69,
       "referenced_works": [
         "https://openalex.org/W2046692613",
@@ -19010,6 +19043,10 @@
       "has_content": {
         "grobid_xml": true,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2759215368.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2759215368.grobid-xml"
       },
       "referenced_works_count": 96,
       "referenced_works": [
@@ -20451,6 +20488,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 25,
       "referenced_works": [
         "https://openalex.org/W2144964641",
@@ -21319,6 +21357,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 64,
       "referenced_works": [
         "https://openalex.org/W766487889",
@@ -21909,6 +21948,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 15,
       "referenced_works": [
         "https://openalex.org/W2039093876",
@@ -23169,6 +23209,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 23,
       "referenced_works": [
         "https://openalex.org/W1999373721",
@@ -23874,6 +23915,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 45,
       "referenced_works": [
         "https://openalex.org/W2028038371",
@@ -24541,6 +24583,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 89,
       "referenced_works": [
         "https://openalex.org/W766487889",
@@ -25076,6 +25119,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 21,
       "referenced_works": [
         "https://openalex.org/W2134598475",
@@ -25724,6 +25768,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 40,
       "referenced_works": [
         "https://openalex.org/W2089841273",
@@ -26349,6 +26394,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 24,
       "referenced_works": [
         "https://openalex.org/W2055932192",
@@ -27063,6 +27109,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 45,
       "referenced_works": [
         "https://openalex.org/W2072736184",
@@ -27882,6 +27929,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 15,
       "referenced_works": [
         "https://openalex.org/W6602513756",
@@ -28477,6 +28525,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 102,
       "referenced_works": [
         "https://openalex.org/W2055980863",
@@ -29022,6 +29071,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W2046692613",
@@ -29944,6 +29994,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 53,
       "referenced_works": [
         "https://openalex.org/W2206311908",
@@ -30520,6 +30571,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 17,
       "referenced_works": [
         "https://openalex.org/W6664607333",
@@ -30884,6 +30936,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -31606,6 +31659,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 47,
       "referenced_works": [
         "https://openalex.org/W2075186149",
@@ -32112,6 +32166,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 2,
       "referenced_works": [
         "https://openalex.org/W2297464928",
@@ -32634,6 +32689,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 19,
       "referenced_works": [
         "https://openalex.org/W2034457640",
@@ -33606,6 +33662,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 10,
       "referenced_works": [
         "https://openalex.org/W1498877843",
@@ -34843,6 +34900,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W2082197446",
@@ -35384,6 +35442,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W2104061368",
@@ -35997,6 +36056,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 38,
       "referenced_works": [
         "https://openalex.org/W2808094458",
@@ -36635,6 +36695,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 28,
       "referenced_works": [
         "https://openalex.org/W4236839397",
@@ -37351,6 +37412,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 47,
       "referenced_works": [
         "https://openalex.org/W2104061368",
@@ -38241,6 +38303,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 91,
       "referenced_works": [
         "https://openalex.org/W2082197446",
@@ -38861,6 +38924,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 14,
       "referenced_works": [
         "https://openalex.org/W1975540972",
@@ -40451,6 +40515,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 4,
       "referenced_works": [
         "https://openalex.org/W2999161041",
@@ -41149,6 +41214,10 @@
       "has_content": {
         "grobid_xml": true,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4285114007.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4285114007.grobid-xml"
       },
       "referenced_works_count": 82,
       "referenced_works": [
@@ -42182,6 +42251,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 8,
       "referenced_works": [
         "https://openalex.org/W2094604270",
@@ -42684,6 +42754,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -43164,6 +43235,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 17,
       "referenced_works": [
         "https://openalex.org/W2092180552",
@@ -44181,6 +44253,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -46605,6 +46678,10 @@
         "grobid_xml": true,
         "pdf": true
       },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4248851121.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4248851121.grobid-xml"
+      },
       "referenced_works_count": 3,
       "referenced_works": [
         "https://openalex.org/W2075706312",
@@ -47161,6 +47238,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 44,
       "referenced_works": [
         "https://openalex.org/W322390929",
@@ -47576,6 +47654,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -47995,6 +48074,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -48271,6 +48351,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [

@@ -932,8 +932,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life in Land",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -1602,8 +1602,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2093,7 +2093,7 @@
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.9321221,
+        "value": 0.93212943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2467,7 +2467,23 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "pdf": false,
         "grobid_xml": false
@@ -2533,25 +2549,25 @@
         "https://openalex.org/W2911559530",
         "https://openalex.org/W2784096200",
         "https://openalex.org/W2883801435",
-        "https://openalex.org/W2944120902",
-        "https://openalex.org/W2028696866",
-        "https://openalex.org/W2033563710",
-        "https://openalex.org/W2165781738",
-        "https://openalex.org/W2134744054",
-        "https://openalex.org/W2107163286",
-        "https://openalex.org/W2980007598",
-        "https://openalex.org/W1552509298",
         "https://openalex.org/W4231718430",
         "https://openalex.org/W4247422014",
-        "https://openalex.org/W2806997003",
         "https://openalex.org/W2516630209",
         "https://openalex.org/W2493925386",
         "https://openalex.org/W2402383939",
-        "https://openalex.org/W2596296837",
+        "https://openalex.org/W2980007598",
+        "https://openalex.org/W2028696866",
+        "https://openalex.org/W2033563710",
+        "https://openalex.org/W1552509298",
+        "https://openalex.org/W2165781738",
+        "https://openalex.org/W2134744054",
+        "https://openalex.org/W2107163286",
         "https://openalex.org/W2261322611",
+        "https://openalex.org/W2806997003",
         "https://openalex.org/W1977995096",
         "https://openalex.org/W1984581602",
-        "https://openalex.org/W1963494072"
+        "https://openalex.org/W1963494072",
+        "https://openalex.org/W2596296837",
+        "https://openalex.org/W2944120902"
       ],
       "related_works": [
         "https://openalex.org/W3149668185",
@@ -2584,7 +2600,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3178,8 +3194,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Decent work and economic growth",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/8"
         }
       ],
@@ -4565,8 +4581,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5767,8 +5783,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7973,8 +7989,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "display_name": "Climate action",
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -8615,8 +8631,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Life below water",
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10855,7 +10871,7 @@
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.64933716,
+        "value": 0.64932645,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11196,7 +11212,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "pdf": true,
         "grobid_xml": true
@@ -11239,11 +11261,11 @@
         "https://openalex.org/W2089045238",
         "https://openalex.org/W2113987921",
         "https://openalex.org/W2792036335",
-        "https://openalex.org/W2740681717",
-        "https://openalex.org/W2623567129",
-        "https://openalex.org/W3038057404",
         "https://openalex.org/W2216515686",
         "https://openalex.org/W2302043185",
+        "https://openalex.org/W3038057404",
+        "https://openalex.org/W2740681717",
+        "https://openalex.org/W2623567129",
         "https://openalex.org/W1581625917"
       ],
       "related_works": [
@@ -11737,7 +11759,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14560,8 +14582,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "display_name": "Climate action",
+          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -15035,8 +15057,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -15988,8 +16010,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Responsible consumption and production",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -16934,8 +16956,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Life in Land",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -18436,8 +18458,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Life below water",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -20129,8 +20151,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "display_name": "Climate action",
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -21224,8 +21246,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -22812,8 +22834,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Climate action",
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],

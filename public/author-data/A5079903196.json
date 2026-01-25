@@ -797,7 +797,7 @@
       "has_fulltext": true,
       "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.99569804,
+        "value": 0.9956691,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1171,13 +1171,34 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320988",
+          "display_name": "Edith Cowan University",
+          "ror": "https://ror.org/05jhnwe22"
+        },
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320325947",
+          "display_name": "Hashemite University",
+          "ror": "https://ror.org/04a1r5z94"
+        },
+        {
+          "id": "https://openalex.org/F4320327842",
+          "display_name": "Kementerian Energi Dan Sumber Daya Mineral",
+          "ror": null
+        }
+      ],
       "has_content": {
         "pdf": true,
         "grobid_xml": true
@@ -1317,15 +1338,15 @@
         "https://openalex.org/W4221035789",
         "https://openalex.org/W3182444102",
         "https://openalex.org/W4281685280",
+        "https://openalex.org/W613567032",
+        "https://openalex.org/W2626345463",
         "https://openalex.org/W4283260162",
         "https://openalex.org/W4293002981",
         "https://openalex.org/W4298624635",
-        "https://openalex.org/W2953361421",
-        "https://openalex.org/W2001462128",
-        "https://openalex.org/W613567032",
         "https://openalex.org/W3174148835",
         "https://openalex.org/W3178846016",
-        "https://openalex.org/W2626345463"
+        "https://openalex.org/W2001462128",
+        "https://openalex.org/W2953361421"
       ],
       "related_works": [
         "https://openalex.org/W2378716748",
@@ -1358,7 +1379,7 @@
           "cited_by_count": 21
         }
       ],
-      "updated_date": "2025-11-07T23:20:04.922697",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1951,8 +1972,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -4062,8 +4083,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -7899,8 +7920,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -10301,8 +10322,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -10707,7 +10728,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.97744607,
+        "value": 0.97709442,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11009,13 +11030,24 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320327842",
+          "display_name": "Kementerian Energi Dan Sumber Daya Mineral",
+          "ror": null
+        }
+      ],
       "has_content": {
         "pdf": true,
         "grobid_xml": true
@@ -11825,7 +11857,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12313,8 +12345,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -14140,8 +14172,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -16791,8 +16823,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -17097,7 +17129,7 @@
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.94215878,
+        "value": 0.94215339,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17461,6 +17493,11 @@
       "awards": [],
       "funders": [
         {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
           "id": "https://openalex.org/F4320336956",
           "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
           "ror": null
@@ -17508,7 +17545,626 @@
         "https://openalex.org/W2911996000",
         "https://openalex.org/W3019562943"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          192,
+          215
+        ],
+        "1694": [
+          125
+        ],
+        "Abstract": [
+          0
+        ],
+        "Indonesia": [
+          1,
+          38
+        ],
+        "has": [
+          2
+        ],
+        "high": [
+          3,
+          33,
+          187,
+          253,
+          262
+        ],
+        "geothermal": [
+          4,
+          12,
+          26,
+          101,
+          106,
+          254,
+          282
+        ],
+        "potential": [
+          5,
+          11,
+          34,
+          102,
+          255
+        ],
+        "comprising": [
+          6
+        ],
+        "40%": [
+          7
+        ],
+        "of": [
+          8,
+          45,
+          70,
+          75,
+          84,
+          108,
+          124,
+          150,
+          195,
+          211,
+          227,
+          250,
+          271
+        ],
+        "the": [
+          9,
+          42,
+          67,
+          73,
+          97,
+          104,
+          116,
+          148,
+          156,
+          162,
+          174,
+          179,
+          196,
+          237,
+          240,
+          247,
+          279
+        ],
+        "world’s": [
+          10
+        ],
+        "energy,": [
+          13
+        ],
+        "volcanic": [
+          14
+        ],
+        "and": [
+          15,
+          58,
+          78,
+          100,
+          115,
+          127,
+          144,
+          153,
+          168,
+          206,
+          225,
+          244,
+          261,
+          276
+        ],
+        "non-volcanic": [
+          16,
+          30,
+          35,
+          105
+        ],
+        "systems.": [
+          17,
+          31
+        ],
+        "Volcanic": [
+          18
+        ],
+        "systems": [
+          19
+        ],
+        "have": [
+          20
+        ],
+        "witnessed": [
+          21
+        ],
+        "more": [
+          22
+        ],
+        "exploration": [
+          23
+        ],
+        "activities": [
+          24
+        ],
+        "for": [
+          25,
+          62,
+          178
+        ],
+        "resources": [
+          27
+        ],
+        "compared": [
+          28
+        ],
+        "to": [
+          29,
+          95,
+          221,
+          233,
+          257
+        ],
+        "A": [
+          32,
+          122
+        ],
+        "system": [
+          36,
+          107
+        ],
+        "in": [
+          37,
+          41,
+          66,
+          103,
+          236,
+          246,
+          281
+        ],
+        "is": [
+          39,
+          202,
+          219
+        ],
+        "located": [
+          40,
+          203
+        ],
+        "northern": [
+          43,
+          248
+        ],
+        "part": [
+          44,
+          69,
+          249
+        ],
+        "Konawe,": [
+          46
+        ],
+        "Southeast": [
+          47
+        ],
+        "Sulawesi.": [
+          48
+        ],
+        "Previous": [
+          49
+        ],
+        "research": [
+          50,
+          93
+        ],
+        "had": [
+          51
+        ],
+        "identified": [
+          52
+        ],
+        "surface": [
+          53,
+          60,
+          76,
+          234
+        ],
+        "temperature": [
+          54
+        ],
+        "anomaly": [
+          55
+        ],
+        "(high": [
+          56
+        ],
+        "temperature)": [
+          57
+        ],
+        "some": [
+          59
+        ],
+        "manifestations": [
+          61,
+          77
+        ],
+        "this": [
+          63,
+          92
+        ],
+        "area,": [
+          64
+        ],
+        "specifically": [
+          65
+        ],
+        "northeast": [
+          68
+        ],
+        "Wawolesea.": [
+          71,
+          238
+        ],
+        "However,": [
+          72
+        ],
+        "source": [
+          74
+        ],
+        "permeable": [
+          79,
+          98,
+          224
+        ],
+        "zones": [
+          80,
+          99,
+          183,
+          199
+        ],
+        "as": [
+          81
+        ],
+        "an": [
+          82,
+          209,
+          268
+        ],
+        "implication": [
+          83
+        ],
+        "a": [
+          85,
+          228
+        ],
+        "good": [
+          86
+        ],
+        "reservoir": [
+          87
+        ],
+        "are": [
+          88
+        ],
+        "still": [
+          89
+        ],
+        "unknown.": [
+          90
+        ],
+        "Therefore,": [
+          91,
+          239
+        ],
+        "aims": [
+          94
+        ],
+        "investigate": [
+          96
+        ],
+        "north": [
+          109
+        ],
+        "Wawolesea": [
+          110
+        ],
+        "by": [
+          111,
+          186
+        ],
+        "applying": [
+          112
+        ],
+        "lineaments": [
+          113,
+          129,
+          152,
+          158,
+          164
+        ],
+        "analysis": [
+          114
+        ],
+        "fault": [
+          117
+        ],
+        "fracture": [
+          118,
+          273
+        ],
+        "density": [
+          119,
+          277
+        ],
+        "(FFD)": [
+          120
+        ],
+        "method.": [
+          121
+        ],
+        "total": [
+          123
+        ],
+        "major": [
+          126,
+          157
+        ],
+        "minor": [
+          128,
+          163
+        ],
+        "were": [
+          130,
+          184
+        ],
+        "manually": [
+          131
+        ],
+        "delineated": [
+          132
+        ],
+        "using": [
+          133
+        ],
+        "ArcGIS": [
+          134
+        ],
+        "based": [
+          135
+        ],
+        "on": [
+          136
+        ],
+        "Digital": [
+          137
+        ],
+        "Elevation": [
+          138
+        ],
+        "Model": [
+          139
+        ],
+        "Nasional": [
+          140
+        ],
+        "(DEMNAS).": [
+          141
+        ],
+        "FFD": [
+          142,
+          188,
+          263
+        ],
+        "map": [
+          143
+        ],
+        "rose": [
+          145
+        ],
+        "diagrams": [
+          146
+        ],
+        "displayed": [
+          147
+        ],
+        "orientation": [
+          149,
+          177
+        ],
+        "all": [
+          151
+        ],
+        "structures": [
+          154
+        ],
+        "with": [
+          155
+        ],
+        "trending": [
+          159
+        ],
+        "NNE–SSW,": [
+          160
+        ],
+        "whereas": [
+          161
+        ],
+        "showed": [
+          165
+        ],
+        "irregular": [
+          166
+        ],
+        "distribution": [
+          167,
+          275
+        ],
+        "orientation.": [
+          169
+        ],
+        "Field": [
+          170
+        ],
+        "measurements": [
+          171
+        ],
+        "also": [
+          172
+        ],
+        "show": [
+          173
+        ],
+        "same": [
+          175
+        ],
+        "azimuth": [
+          176
+        ],
+        "mapped": [
+          180
+        ],
+        "fractures.": [
+          181
+        ],
+        "Five": [
+          182
+        ],
+        "characterized": [
+          185
+        ],
+        "values": [
+          189
+        ],
+        "(2.81–4.54": [
+          190
+        ],
+        "km/km": [
+          191
+        ],
+        ").": [
+          193
+        ],
+        "One": [
+          194
+        ],
+        "extensively": [
+          197
+        ],
+        "fractured": [
+          198
+        ],
+        "(Zone": [
+          200
+        ],
+        "C)": [
+          201
+        ],
+        "between": [
+          204,
+          242
+        ],
+        "Meluhu": [
+          205,
+          243
+        ],
+        "Lembo,": [
+          207
+        ],
+        "covering": [
+          208
+        ],
+        "area": [
+          210,
+          218,
+          230,
+          241
+        ],
+        "around": [
+          212
+        ],
+        "19.39": [
+          213
+        ],
+        "km": [
+          214
+        ],
+        ".": [
+          216
+        ],
+        "This": [
+          217,
+          265
+        ],
+        "interpreted": [
+          220
+        ],
+        "be": [
+          222
+        ],
+        "highly": [
+          223
+        ],
+        "suggestive": [
+          226
+        ],
+        "recharge": [
+          229
+        ],
+        "that": [
+          231
+        ],
+        "contributes": [
+          232
+        ],
+        "manifestation": [
+          235
+        ],
+        "Lembo": [
+          245
+        ],
+        "Konawe": [
+          251
+        ],
+        "shows": [
+          252
+        ],
+        "due": [
+          256
+        ],
+        "its": [
+          258
+        ],
+        "planar": [
+          259
+        ],
+        "morphology": [
+          260
+        ],
+        "values.": [
+          264
+        ],
+        "study": [
+          266
+        ],
+        "allows": [
+          267
+        ],
+        "improved": [
+          269
+        ],
+        "understanding": [
+          270
+        ],
+        "how": [
+          272
+        ],
+        "geometry,": [
+          274
+        ],
+        "control": [
+          278
+        ],
+        "permeability": [
+          280
+        ],
+        "reservoirs.": [
+          283
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -17523,7 +18179,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18183,8 +18839,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -20637,8 +21293,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -22494,7 +23150,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.82332896,
+        "value": 0.82326256,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22905,13 +23561,24 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320327842",
+          "display_name": "Kementerian Energi Dan Sumber Daya Mineral",
+          "ror": null
+        }
+      ],
       "has_content": {
         "pdf": false,
         "grobid_xml": false
@@ -22949,8 +23616,8 @@
         "https://openalex.org/W2161393588",
         "https://openalex.org/W203584942",
         "https://openalex.org/W2088871217",
-        "https://openalex.org/W2953672306",
-        "https://openalex.org/W587884627"
+        "https://openalex.org/W587884627",
+        "https://openalex.org/W2953672306"
       ],
       "related_works": [
         "https://openalex.org/W998619573",
@@ -22964,589 +23631,7 @@
         "https://openalex.org/W2345316453",
         "https://openalex.org/W2386844414"
       ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          54,
-          88,
-          136
-        ],
-        "initiation": [
-          1,
-          156
-        ],
-        "of": [
-          2,
-          13,
-          116,
-          124,
-          157,
-          163,
-          169,
-          225,
-          240,
-          253
-        ],
-        "bitumen-filled": [
-          3
-        ],
-        "microfractures": [
-          4,
-          159,
-          219
-        ],
-        "was": [
-          5,
-          32,
-          56,
-          65,
-          103,
-          119
-        ],
-        "analysed": [
-          6
-        ],
-        "in": [
-          7,
-          45,
-          67,
-          175,
-          179
-        ],
-        "the": [
-          8,
-          36,
-          51,
-          68,
-          79,
-          84,
-          92,
-          97,
-          109,
-          114,
-          122,
-          125,
-          131,
-          143,
-          148,
-          155,
-          161,
-          180,
-          192,
-          196,
-          211,
-          216,
-          222,
-          226,
-          238
-        ],
-        "organic-rich": [
-          9
-        ],
-        "Maastrichtian": [
-          10
-        ],
-        "carbonate": [
-          11
-        ],
-        "mudrocks": [
-          12
-        ],
-        "Jordan,": [
-          14
-        ],
-        "which": [
-          15
-        ],
-        "show": [
-          16,
-          90
-        ],
-        "great": [
-          17
-        ],
-        "potential": [
-          18,
-          82
-        ],
-        "as": [
-          19
-        ],
-        "source": [
-          20,
-          85,
-          193,
-          229
-        ],
-        "rocks": [
-          21
-        ],
-        "and": [
-          22,
-          62,
-          171,
-          247,
-          249
-        ],
-        "for": [
-          23
-        ],
-        "a": [
-          24,
-          140,
-          172,
-          202
-        ],
-        "future": [
-          25
-        ],
-        "unconventional": [
-          26,
-          257
-        ],
-        "hydrocarbon": [
-          27,
-          245
-        ],
-        "play.": [
-          28
-        ],
-        "A": [
-          29
-        ],
-        "modelling": [
-          30
-        ],
-        "approach": [
-          31
-        ],
-        "performed": [
-          33
-        ],
-        "to": [
-          34,
-          43,
-          57,
-          70,
-          107,
-          127,
-          142,
-          154,
-          236
-        ],
-        "assess": [
-          35
-        ],
-        "possible": [
-          37
-        ],
-        "scenarios": [
-          38
-        ],
-        "causing": [
-          39
-        ],
-        "horizontal": [
-          40,
-          72,
-          158,
-          218
-        ],
-        "small-scale": [
-          41
-        ],
-        "(mm": [
-          42
-        ],
-        "cm": [
-          44
-        ],
-        "length)": [
-          46
-        ],
-        "bitumen": [
-          47,
-          63,
-          98,
-          126,
-          164,
-          170
-        ],
-        "fractures": [
-          48,
-          243
-        ],
-        "(microfractures)": [
-          49
-        ],
-        "at": [
-          50,
-          201
-        ],
-        "immature": [
-          52
-        ],
-        "stage.": [
-          53
-        ],
-        "aim": [
-          55
-        ],
-        "back-calculate": [
-          58
-        ],
-        "how": [
-          59
-        ],
-        "much": [
-          60
-        ],
-        "overpressure": [
-          61,
-          94,
-          138
-        ],
-        "generation": [
-          64,
-          81,
-          99
-        ],
-        "needed": [
-          66
-        ],
-        "past": [
-          69
-        ],
-        "initiate": [
-          71,
-          108
-        ],
-        "microfracturing,": [
-          73
-        ],
-        "comparing": [
-          74
-        ],
-        "those": [
-          75
-        ],
-        "simulated": [
-          76
-        ],
-        "parameters": [
-          77
-        ],
-        "with": [
-          78
-        ],
-        "actual": [
-          80
-        ],
-        "from": [
-          83,
-          96
-        ],
-        "rock": [
-          86,
-          194
-        ],
-        "samples.": [
-          87
-        ],
-        "results": [
-          89
-        ],
-        "that": [
-          91,
-          113,
-          151,
-          185,
-          210
-        ],
-        "local": [
-          93
-        ],
-        "resulting": [
-          95,
-          137
-        ],
-        "during": [
-          100,
-          134
-        ],
-        "early": [
-          101
-        ],
-        "catagenesis": [
-          102
-        ],
-        "not": [
-          104
-        ],
-        "high": [
-          105
-        ],
-        "enough": [
-          106
-        ],
-        "microfracturing.": [
-          110
-        ],
-        "We": [
-          111
-        ],
-        "hypothesise": [
-          112
-        ],
-        "increase": [
-          115
-        ],
-        "internal": [
-          117
-        ],
-        "pressure": [
-          118,
-          176
-        ],
-        "caused": [
-          120
-        ],
-        "by": [
-          121,
-          215
-        ],
-        "inability": [
-          123
-        ],
-        "be": [
-          128
-        ],
-        "squeezed": [
-          129
-        ],
-        "into": [
-          130
-        ],
-        "pore": [
-          132
-        ],
-        "space": [
-          133
-        ],
-        "burial.": [
-          135
-        ],
-        "induced": [
-          139
-        ],
-        "perturbation": [
-          141
-        ],
-        "stable-state": [
-          144
-        ],
-        "stress": [
-          145
-        ],
-        "distribution": [
-          146
-        ],
-        "around": [
-          147
-        ],
-        "kerogen": [
-          149
-        ],
-        "boundary": [
-          150
-        ],
-        "eventually": [
-          152
-        ],
-        "led": [
-          153
-        ],
-        "along": [
-          160
-        ],
-        "tip": [
-          162
-        ],
-        "flakes.": [
-          165
-        ],
-        "Subsequently,": [
-          166
-        ],
-        "short-distance": [
-          167
-        ],
-        "migration": [
-          168,
-          187
-        ],
-        "significant": [
-          173
-        ],
-        "decrease": [
-          174
-        ],
-        "have": [
-          177
-        ],
-        "prevailed": [
-          178
-        ],
-        "study": [
-          181
-        ],
-        "area.": [
-          182
-        ],
-        "This": [
-          183,
-          207
-        ],
-        "proves": [
-          184
-        ],
-        "primary": [
-          186
-        ],
-        "can": [
-          188
-        ],
-        "occur": [
-          189
-        ],
-        "long": [
-          190
-        ],
-        "before": [
-          191
-        ],
-        "reaches": [
-          195
-        ],
-        "oil": [
-          197
-        ],
-        "or": [
-          198
-        ],
-        "gas": [
-          199
-        ],
-        "windows,": [
-          200
-        ],
-        "comparatively": [
-          203
-        ],
-        "shallow": [
-          204
-        ],
-        "burial": [
-          205
-        ],
-        "depth.": [
-          206
-        ],
-        "also": [
-          208
-        ],
-        "indicates": [
-          209
-        ],
-        "first": [
-          212
-        ],
-        "framework": [
-          213
-        ],
-        "pathways": [
-          214
-        ],
-        "precursor": [
-          217
-        ],
-        "may": [
-          220
-        ],
-        "control": [
-          221
-        ],
-        "flow": [
-          223
-        ],
-        "patterns": [
-          224
-        ],
-        "hydrocarbons": [
-          227
-        ],
-        "within": [
-          228
-        ],
-        "rocks.": [
-          230
-        ],
-        "Understanding": [
-          231
-        ],
-        "these": [
-          232,
-          241
-        ],
-        "factors": [
-          233
-        ],
-        "is": [
-          234
-        ],
-        "critical": [
-          235
-        ],
-        "predicting": [
-          237
-        ],
-        "impact": [
-          239
-        ],
-        "microscale": [
-          242
-        ],
-        "on": [
-          244
-        ],
-        "expulsion": [
-          246
-        ],
-        "storage,": [
-          248
-        ],
-        "hence": [
-          250
-        ],
-        "likely": [
-          251
-        ],
-        "productivity": [
-          252
-        ],
-        "an": [
-          254
-        ],
-        "analogous": [
-          255
-        ],
-        "subsurface": [
-          256
-        ],
-        "reservoir.": [
-          258
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
@@ -23565,7 +23650,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24164,8 +24249,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -26899,8 +26984,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -27394,8 +27479,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -28299,8 +28384,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -30724,8 +30809,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -32233,8 +32318,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -34339,8 +34424,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -36220,8 +36305,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -38110,7 +38195,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.56241714,
+        "value": 0.56242369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38617,7 +38702,18 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "pdf": true,
         "grobid_xml": true
@@ -39283,7 +39379,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40993,8 +41089,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -46433,8 +46529,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land"
         }
       ],
@@ -47833,8 +47929,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -48223,7 +48319,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.44804402,
+        "value": 0.44802653,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48641,7 +48737,18 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320327842",
+          "display_name": "Kementerian Energi Dan Sumber Daya Mineral",
+          "ror": null
+        }
+      ],
       "has_content": {
         "pdf": false,
         "grobid_xml": false
@@ -48681,7 +48788,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51370,8 +51477,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -52393,8 +52500,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -54697,8 +54804,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -55620,8 +55727,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -55851,8 +55958,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -57520,8 +57627,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],

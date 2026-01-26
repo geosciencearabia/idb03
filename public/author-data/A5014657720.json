@@ -11575,7 +11575,7 @@
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.97017313,
+        "value": 0.97006618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12070,12 +12070,12 @@
         "https://openalex.org/W4322502959",
         "https://openalex.org/W4293215550",
         "https://openalex.org/W2730088830",
-        "https://openalex.org/W2244809800",
         "https://openalex.org/W2135598297",
         "https://openalex.org/W2126963790",
         "https://openalex.org/W4284969105",
         "https://openalex.org/W4297009737",
-        "https://openalex.org/W1529493629"
+        "https://openalex.org/W1529493629",
+        "https://openalex.org/W2244809800"
       ],
       "related_works": [
         "https://openalex.org/W2374452174",

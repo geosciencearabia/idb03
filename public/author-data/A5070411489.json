@@ -2311,7 +2311,7 @@
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.94486486,
+        "value": 0.94504663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2828,34 +2828,34 @@
       "content_urls": null,
       "referenced_works_count": 28,
       "referenced_works": [
-        "https://openalex.org/W2071091649",
-        "https://openalex.org/W1943121318",
-        "https://openalex.org/W1895649650",
-        "https://openalex.org/W2075417561",
-        "https://openalex.org/W2096522903",
-        "https://openalex.org/W2246559164",
-        "https://openalex.org/W2063626569",
-        "https://openalex.org/W2109245308",
         "https://openalex.org/W300313049",
-        "https://openalex.org/W2004662087",
-        "https://openalex.org/W1983191214",
-        "https://openalex.org/W1876299372",
-        "https://openalex.org/W2030914564",
-        "https://openalex.org/W2066115290",
-        "https://openalex.org/W2133446770",
-        "https://openalex.org/W2006565332",
-        "https://openalex.org/W2976043901",
         "https://openalex.org/W1540552215",
-        "https://openalex.org/W1993898064",
-        "https://openalex.org/W2087280943",
-        "https://openalex.org/W2085221298",
-        "https://openalex.org/W2035766707",
-        "https://openalex.org/W1967663177",
-        "https://openalex.org/W2077568485",
         "https://openalex.org/W1795272034",
-        "https://openalex.org/W2584735308",
+        "https://openalex.org/W1876299372",
+        "https://openalex.org/W1895649650",
+        "https://openalex.org/W1943121318",
+        "https://openalex.org/W1967663177",
+        "https://openalex.org/W1983191214",
+        "https://openalex.org/W1993898064",
+        "https://openalex.org/W2004662087",
+        "https://openalex.org/W2006418021",
+        "https://openalex.org/W2006565332",
+        "https://openalex.org/W2030914564",
+        "https://openalex.org/W2035766707",
+        "https://openalex.org/W2063626569",
+        "https://openalex.org/W2066115290",
+        "https://openalex.org/W2071091649",
+        "https://openalex.org/W2075417561",
+        "https://openalex.org/W2077568485",
+        "https://openalex.org/W2085221298",
+        "https://openalex.org/W2087280943",
+        "https://openalex.org/W2096522903",
+        "https://openalex.org/W2109245308",
+        "https://openalex.org/W2133446770",
+        "https://openalex.org/W2246559164",
         "https://openalex.org/W2508765924",
-        "https://openalex.org/W2006418021"
+        "https://openalex.org/W2584735308",
+        "https://openalex.org/W2976043901"
       ],
       "related_works": [
         "https://openalex.org/W2048518856",
@@ -2916,7 +2916,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-28T13:32:53.861360",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37434,7 +37434,7 @@
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.80371146,
+        "value": 0.8026915,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37882,20 +37882,20 @@
       "content_urls": null,
       "referenced_works_count": 14,
       "referenced_works": [
+        "https://openalex.org/W1558677347",
+        "https://openalex.org/W1600718613",
+        "https://openalex.org/W2023792378",
         "https://openalex.org/W2036242646",
-        "https://openalex.org/W2575211338",
+        "https://openalex.org/W2055434212",
+        "https://openalex.org/W2055720618",
         "https://openalex.org/W2076700333",
         "https://openalex.org/W2082575292",
-        "https://openalex.org/W2023792378",
-        "https://openalex.org/W2589447479",
-        "https://openalex.org/W2924046192",
-        "https://openalex.org/W2055434212",
-        "https://openalex.org/W6633413770",
-        "https://openalex.org/W1600718613",
-        "https://openalex.org/W1558677347",
         "https://openalex.org/W2125923759",
         "https://openalex.org/W2152955756",
-        "https://openalex.org/W2055720618"
+        "https://openalex.org/W2575211338",
+        "https://openalex.org/W2589447479",
+        "https://openalex.org/W2924046192",
+        "https://openalex.org/W6633413770"
       ],
       "related_works": [
         "https://openalex.org/W2356329695",
@@ -37910,6 +37910,9 @@
         "https://openalex.org/W1964159365"
       ],
       "abstract_inverted_index": {
+        "2019": [
+          103
+        ],
         "Ten": [
           0
         ],
@@ -38151,6 +38154,28 @@
         ],
         "Basin.": [
           99
+        ],
+        "-": [
+          100,
+          102
+        ],
+        "2019,": [
+          101
+        ],
+        "Taylor": [
+          104
+        ],
+        "&amp;": [
+          105
+        ],
+        "Francis": [
+          106
+        ],
+        "Group,": [
+          107
+        ],
+        "LLC.": [
+          108
         ]
       },
       "counts_by_year": [
@@ -38183,7 +38208,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-28T13:32:53.861360",
       "created_date": "2019-05-03T00:00:00"
     },
     {
@@ -49288,7 +49313,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82866751,
+        "value": 0.82851379,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100705,7 +100730,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01229047,
+        "value": 0.01227387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

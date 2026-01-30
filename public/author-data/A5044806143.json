@@ -16,7 +16,7 @@
       "Mohamed A. K. El-Ghali"
     ],
     "works_count": 90,
-    "cited_by_count": 1317,
+    "cited_by_count": 1318,
     "summary_stats": {
       "2yr_mean_citedness": 1.7777777777777777,
       "h_index": 21,
@@ -244,7 +244,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001851,
+        "value": 0.0001849,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -261,7 +261,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001366,
+        "value": 0.0001365,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -312,7 +312,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000461,
+        "value": 0.000046,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -448,7 +448,7 @@
         "year": 2023,
         "works_count": 10,
         "oa_works_count": 2,
-        "cited_by_count": 62
+        "cited_by_count": 63
       },
       {
         "year": 2024,
@@ -473,7 +473,7 @@
     },
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-01-29T04:20:28.980091",
+    "updated_date": "2026-01-30T04:21:33.591335",
     "created_date": "2019-12-13"
   },
   "works": [

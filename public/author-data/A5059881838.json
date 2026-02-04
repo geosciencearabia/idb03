@@ -15,9 +15,9 @@
       "Not Provided"
     ],
     "works_count": 97,
-    "cited_by_count": 1048,
+    "cited_by_count": 1049,
     "summary_stats": {
-      "2yr_mean_citedness": 2.125,
+      "2yr_mean_citedness": 2.15,
       "h_index": 19,
       "i10_index": 30
     },
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001666,
+        "value": 0.0001663,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -260,7 +260,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000606,
+        "value": 0.0000605,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -277,7 +277,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000592,
+        "value": 0.0000591,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -401,7 +401,7 @@
         "year": 2025,
         "works_count": 15,
         "oa_works_count": 8,
-        "cited_by_count": 17
+        "cited_by_count": 18
       }
     ],
     "longest_name": "Ardiansyah Ibnu Koeshidayatullah",
@@ -414,7 +414,7 @@
     },
     "block_key": "a koeshidayatullah",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059881838",
-    "updated_date": "2026-02-02T04:24:01.495945",
+    "updated_date": "2026-02-03T19:50:13.913683",
     "created_date": "2020-11-09"
   },
   "works": [

@@ -16,7 +16,7 @@
       "P.R.A. Johnson"
     ],
     "works_count": 81,
-    "cited_by_count": 5835,
+    "cited_by_count": 5836,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -441,7 +441,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000688,
+        "value": 0.0000687,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -458,7 +458,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000624,
+        "value": 0.0000622,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -492,7 +492,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000495,
+        "value": 0.0000494,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -724,7 +724,7 @@
         "year": 2010,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 927
+        "cited_by_count": 928
       },
       {
         "year": 2011,
@@ -803,7 +803,7 @@
     },
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-02-02T04:24:01.495945",
+    "updated_date": "2026-02-03T19:50:13.913683",
     "created_date": "2016-06-24"
   },
   "works": [

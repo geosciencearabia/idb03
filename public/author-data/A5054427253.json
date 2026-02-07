@@ -159,7 +159,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001123,
+        "value": 0.0001122,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -176,7 +176,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001031,
+        "value": 0.000103,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -400,7 +400,7 @@
     },
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-02-04T12:20:26.776081",
+    "updated_date": "2026-02-06T12:19:41.847888",
     "created_date": "2016-06-24"
   },
   "works": [
@@ -9133,9 +9133,9 @@
       "apc_paid": null,
       "fwci": 15.06249993,
       "has_fulltext": false,
-      "cited_by_count": 86,
+      "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.98845361,
+        "value": 0.98844884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10564,6 +10564,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 6
         },
@@ -10620,7 +10624,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-07T08:09:18.108334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20794,7 +20798,7 @@
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.67879189,
+        "value": 0.6788255,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21082,7 +21086,7 @@
         },
         {
           "id": "pmh:oai:HAL:hal-01696229v1",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://brgm.hal.science/hal-01696229",
           "pdf_url": null,
           "source": {
@@ -21101,8 +21105,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -21695,7 +21699,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-05T00:54:17.221276",
+      "updated_date": "2026-02-07T08:09:18.108334",
       "created_date": "2016-06-24T00:00:00"
     },
     {
